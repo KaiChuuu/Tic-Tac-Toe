@@ -6,7 +6,7 @@ Each player takes a turn making a move until one player has 4 in a row or there 
 # Game Play
 
   <a href="https://github.com/Tic-Tac-Toe/">
-    <img src="/images/tictactoeStart.jpg" alt="GameStart" width="400" height="600">
+    <img src="/images/tictactoeStart.jpg" alt="GameStart" width="500" height="500">
   </a>
 
 
