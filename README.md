@@ -3,6 +3,18 @@
 
 Each player takes a turn making a move until one player has 4 in a row or there are no more spaces.
 
+# Game Play
+
+<p align="center">
+  <a href="https://github.com/RedDogClifford/Tic-Tac-Toe/images/">
+    <img src="tictactoeStart.jpg" alt="Logo" width="800" height="400">
+  </a>
+</p>
+
+
+
+
+
 ## What I learned
 
 Learned the basics of using JavaFX to be able to create simple UI programs.
