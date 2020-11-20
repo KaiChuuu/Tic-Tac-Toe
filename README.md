@@ -1,6 +1,8 @@
 # Tic-Tac-Toe
 4x4 Tic Tac Toe Board Game created using JavaFX
 
+Each player takes a turn making a move until one player has 4 in a row or there are no more spaces.
+
 ## What I learned
 
 Learned the basics of using JavaFX to be able to create simple UI programs.
