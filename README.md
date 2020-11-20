@@ -5,11 +5,31 @@ Each player takes a turn making a move until one player has 4 in a row or there 
 
 # Game Play
 
-  <a href="https://github.com/Tic-Tac-Toe/">
-    <img src="/images/tictactoeStart.jpg" alt="GameStart" width="500" height="500">
-  </a>
+How the game looks,
 
+When it is initially started, and when the player resets board.
 
+<a href="https://github.com/Tic-Tac-Toe/">
+  <img src="/images/tictactoeStart.jpg" alt="GameStart" width="500" height="500">
+</a>
+
+When player X wins,
+
+<a href="https://github.com/Tic-Tac-Toe/">
+  <img src="/images/tictactoeEnd1.jpg" alt="GameStart" width="500" height="500">
+</a>
+
+When player O wins,
+
+<a href="https://github.com/Tic-Tac-Toe/">
+  <img src="/images/tictactoeEnd2.jpg" alt="GameStart" width="500" height="500">
+</a>
+
+When game ends in a draw.
+
+<a href="https://github.com/Tic-Tac-Toe/">
+  <img src="/images/tictactoeEnd3.jpg" alt="GameStart" width="500" height="500">
+</a>
 
 
 ## What I learned
