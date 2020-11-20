@@ -6,7 +6,7 @@ Each player takes a turn making a move until one player has 4 in a row or there 
 # Game Play
 
 
- <img src="tictactoeStart.jpg" alt="StartGame" width="800" height="400">
+ <img src="tictactoeStart.jpg" alt="StartGame" width="200" height="200">
 
 
 
